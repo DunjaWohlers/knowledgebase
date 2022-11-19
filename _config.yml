@@ -7,5 +7,6 @@ url: https://dunjawohlers.github.io/knowledgebase/
 aux_links:
   Template Repository: https://dunjawohlers.github.io/knowledgebase/
 
-color_scheme: foo
+color_scheme: dark
 
+heading_anchors: false

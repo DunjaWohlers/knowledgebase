@@ -62,12 +62,12 @@ $search-background-color: $grey-dk-250 ;
 $table-background-color: $grey-dk-250 ;
 $code-background-color: $grey-dk-250 ;
 $feedback-color: darken($sidebar-color, 3%) ;
-$body-text-color: $grey-lt-000 ;
-$body-heading-color: $grey-lt-000 ;
+$body-text-color: $grey-lt-300 ;
+$body-heading-color: $grey-lt-300 ;
 $search-result-preview-color: $grey-dk-250 ;
 $nav-child-link-color: $grey-dk-100 ;
-$link-color: $blue-200 ;
-$btn-primary-color: $blue-200 ;
+$link-color: $blue-000 ;
+$btn-primary-color: $blue-000 ;
 $base-button-color: $blue-000 ;
 $side-header-background-color: $blue-000 ;
 
@@ -103,7 +103,7 @@ $sp-10: map-get($spacers, sp-10) !default; // 4  rem == 64px
 
 $border: 1px solid ;
 $border-radius: 4px ;
-$border-color: $grey-lt-100 ;
+$border-color: $grey-dk-100 ;
 
 // Grid system
 
