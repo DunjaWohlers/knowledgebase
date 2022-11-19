@@ -3,12 +3,16 @@ layout: default
 title: Description
 nav_order: 1
 ---
+# Table of Contents
+1. TOC
+{:toc}
+
 # Titel
 ## Untertitel
 ### Blababa
+{: .no_toc .text-delta }
 
-1. TOC
-{:toc}
+
 
 
 |Spalte1|Spalte2|Spalte3|
