@@ -1,11 +1,15 @@
 ---
 layout: default
-title: Customization
+title: Description
 nav_order: 1
 ---
 # Titel
 ## Untertitel
 ### Blababa
+
+1. TOC
+{:toc}
+
 
 |Spalte1|Spalte2|Spalte3|
 |---|---|---|
@@ -27,8 +31,3 @@ export default function Home(){
 1. basfd
 
 [google](http://google.de )
-
-# checklist
-
-*[x] Beschreibung
-*[ ] Bawdfa
