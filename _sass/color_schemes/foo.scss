@@ -4,73 +4,72 @@
 $body-font-family: system-ui, -apple-system, blinkmacsystemfont, "Segoe UI",
 roboto, "Helvetica Neue", arial, sans-serif !default;
 $mono-font-family: "SFMono-Regular", menlo, consolas, monospace !default;
-$root-font-size: 16px !default; // Base font-size for rems
-$body-line-height: 1.4 !default;
-$content-line-height: 1.6 !default;
-$body-heading-line-height: 1.25 !default;
+$root-font-size: 16px ; // Base font-size for rems
+$body-line-height: 1.4 ;
+$content-line-height: 1.6 ;
+$body-heading-line-height: 1.25 ;
 
 // Font size
 // `-sm` suffix is the size at the small (and above) media query
 
-$font-size-1: 9px !default;
-$font-size-1-sm: 10px !default;
-$font-size-2: 11px !default; // h4 - uppercased!, h6 not uppercased, text-small
-$font-size-3: 12px !default; // h5
-$font-size-4: 14px !default;
-$font-size-5: 16px !default; // h3
-$font-size-6: 18px !default; // h2
-$font-size-7: 24px !default;
-$font-size-8: 32px !default; // h1
-$font-size-9: 36px !default;
-$font-size-10: 42px !default;
-$font-size-10-sm: 48px !default;
+$font-size-1: 9px ;
+$font-size-1-sm: 10px ;
+$font-size-2: 11px ; // h4 - uppercased!, h6 not uppercased, text-small
+$font-size-3: 12px ; // h5
+$font-size-4: 14px ;
+$font-size-5: 16px ; // h3
+$font-size-6: 18px ; // h2
+$font-size-7: 24px ;
+$font-size-8: 32px ; // h1
+$font-size-9: 36px ;
+$font-size-10: 42px ;
+$font-size-10-sm: 48px ;
 
 // Colors
 
-$white: #fff !default;
-$grey-dk-000: #959396 !default;
-$grey-dk-100: #5c5962 !default;
-$grey-dk-200: #44434d !default;
-$grey-dk-250: #302d36 !default;
-$grey-dk-300: #27262b !default;
-$grey-lt-000: #f5f6fa !default;
-$grey-lt-100: #eeebee !default;
-$grey-lt-200: #ecebed !default;
-$grey-lt-300: #e6e1e8 !default;
-$purple-000: #7253ed !default;
-$purple-100: #5e41d0 !default;
-$purple-200: #4e26af !default;
-$purple-300: #381885 !default;
-$blue-000: #2c84fa !default;
-$blue-100: #2869e6 !default;
-$blue-200: #264caf !default;
-$blue-300: #183385 !default;
-$green-000: #41d693 !default;
-$green-100: #11b584 !default;
-$green-200: #009c7b !default;
-$green-300: #026e57 !default;
-$yellow-000: #ffeb82 !default;
-$yellow-100: #fadf50 !default;
-$yellow-200: #f7d12e !default;
-$yellow-300: #e7af06 !default;
-$red-000: #f77e7e !default;
-$red-100: #f96e65 !default;
-$red-200: #e94c4c !default;
-$red-300: #dd2e2e !default;
-$body-background-color: $grey-dk-250 !default;
-$sidebar-color: $grey-dk-250 !default;
-$search-background-color: $grey-dk-250 !default;
-$table-background-color: $grey-dk-250 !default;
-$code-background-color: $grey-dk-250 !default;
-$feedback-color: darken($sidebar-color, 3%) !default;
-$body-text-color: $grey-lt-000 !default;
-$body-heading-color: $grey-lt-000 !default;
-$search-result-preview-color: $grey-dk-250 !default;
-$nav-child-link-color: $grey-dk-100 !default;
-$link-color: $blue-200 !default;
-$btn-primary-color: $blue-200 !default;
-$base-button-color: $blue-000 !default;
-$side-header-background-color: $blue-000 !default;
+$white: #fff ;
+$grey-dk-000: #959396 ;
+$grey-dk-100: #5c5962 ;
+$grey-dk-200: #44434d ;
+$grey-dk-250: #302d36 ;
+$grey-dk-300: #27262b ;
+$grey-lt-000: #f5f6fa ;
+$grey-lt-100: #eeebee ;
+$grey-lt-200: #ecebed ;
+$grey-lt-300: #e6e1e8 ;
+$purple-000: #7253ed ;
+$purple-100: #5e41d0 ;
+$purple-200: #4e26af ;
+$purple-300: #381885 ;
+$blue-000: #2c84fa ;
+$blue-100: #2869e6 ;
+$blue-200: #264caf ;
+$blue-300: #183385;
+$green-000: #41d693 ;
+$green-100: #11b584 ;
+$green-200: #009c7b ;
+$green-300: #026e57 ;
+$yellow-000: #ffeb82 ;
+$yellow-100: #fadf50 ;
+$yellow-300: #e7af06 ;
+$red-000: #f77e7e ;
+$red-100: #f96e65 ;
+$red-200: #e94c4c ;
+$red-300: #dd2e2e ;
+$body-background-color: $grey-dk-250 ;
+$sidebar-color: $grey-dk-250 ;
+$search-background-color: $grey-dk-250 ;
+$table-background-color: $grey-dk-250 ;
+$code-background-color: $grey-dk-250 ;
+$feedback-color: darken($sidebar-color, 3%) ;
+$body-text-color: $grey-lt-000 ;
+$body-heading-color: $grey-lt-000 ;
+$search-result-preview-color: $grey-dk-250 ;
+$nav-child-link-color: $grey-dk-100 ;
+$link-color: $blue-200 ;
+$btn-primary-color: $blue-200 ;
+$base-button-color: $blue-000 ;
+$side-header-background-color: $blue-000 ;
 
 // Spacing
 
@@ -102,22 +101,22 @@ $sp-10: map-get($spacers, sp-10) !default; // 4  rem == 64px
 
 // Borders
 
-$border: 1px solid !default;
-$border-radius: 4px !default;
-$border-color: $grey-lt-100 !default;
+$border: 1px solid ;
+$border-radius: 4px ;
+$border-color: $grey-lt-100 ;
 
 // Grid system
 
-$gutter-spacing: $sp-6 !default;
-$gutter-spacing-sm: $sp-4 !default;
-$nav-width: 264px !default;
-$nav-width-md: 248px !default;
-$nav-list-item-height: $sp-6 !default;
-$nav-list-item-height-sm: $sp-8 !default;
+$gutter-spacing: $sp-6 ;
+$gutter-spacing-sm: $sp-4 ;
+$nav-width: 264px ;
+$nav-width-md: 248px ;
+$nav-list-item-height: $sp-6 ;
+$nav-list-item-height-sm: $sp-8 ;
 $nav-list-expander-right: true;
-$content-width: 800px !default;
-$header-height: 60px !default;
-$search-results-width: $content-width - $nav-width !default;
+$content-width: 800px ;
+$header-height: 60px ;
+$search-results-width: $content-width - $nav-width ;
 $transition-duration: 400ms;
 
 // Media queries in pixels
@@ -128,4 +127,4 @@ $media-queries: (
         md: $content-width,
         lg: $content-width + $nav-width,
         xl: 1400px,
-) !default;
+) ;
