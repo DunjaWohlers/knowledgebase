@@ -9,7 +9,3 @@ aux_links:
 
 color_scheme: dark
 
-heading_anchors: false
-
-plugins:
-  - jekyll-default-layout
