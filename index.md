@@ -2,5 +2,7 @@
 title: Home
 layout: home
 ---
-Diese Seite ist eine Sammlung von Beispielprogrammen und Erläuterungen. Viel Spaß beim Stöbern!
----
+
+Diese Seite dient der Dokumentation und Erläuterung einiger Programmier-Projekte. Viel Spaß beim Stöbern!
+
+----
