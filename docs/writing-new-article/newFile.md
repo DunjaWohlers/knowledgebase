@@ -18,6 +18,20 @@ Zunächst erstellt man ein neues Dokument z.B. mit dem Namen "die-sahara.md" im 
 
 Die ersten Zeilen in dem Dokument sollten folgendes beinhalten: 
 
+```manifest
+---
+layout: default
+title: Die Sahara
+nav-order: 1 <!-- Position -->
+---
+# Inhalt 
+    {: .no-toc}
+    {:toc}
+# Bla
+    text text text
+    {: .className}
+```
+
 ```markdown
 ---
 layout: default
@@ -25,9 +39,9 @@ title: Die Sahara
 nav-order: 1 <!-- Position -->
 ---
 # Inhalt 
-{: .no-toc}
-{:toc}
+    {: .no-toc}
+    {:toc}
 # Bla
-text text text
-{: .className}
-
+    text text text
+    {: .className}
+```
