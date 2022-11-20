@@ -23,16 +23,10 @@ nav_order: 3
 
 eingebauter code ist hier: `home()`, schön was? Auch z.b. `<div> element</div>`
 
-hier teste ich kramdown-formatin
-{:.border .border-success}
-geht das hier in 
-{Ukraine-Farben?}
-{.rounded} 
-Ukraine-Farben?
-{: .rounded .bg-green-000}
-# Ukraine-Farben?
-{: .mega-big .newClass}
+Teste custom classes:
 
-jo { ::comment} ist kommentiert.. oder nicht?{: /geheim}
-gu
-{: .mega-big .newClass}
+border und farbe?
+{: .border-radius .newClass}
+
+border größer?{: .border-radius2}
+
