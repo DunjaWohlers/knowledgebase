@@ -2,7 +2,7 @@
 layout: default
 title: Einleitung 
 nav-order: 1
-parent: Neue Artikeleinträge schreiben
+parent: Neue Artikeleinträge
 ---
 # Inhalt
 {: .no-toc}
