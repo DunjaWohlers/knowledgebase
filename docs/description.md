@@ -9,9 +9,9 @@ nav_order: 1
 
 # Titel
 ## Untertitel
-{: .bg-green-000 }
+{: .bg-green-000 .br-border-radius}
 ### Blababa
-{: .no_toc .mein-klasse }
+{: .no_toc .meine-klasse }
 
 
 
