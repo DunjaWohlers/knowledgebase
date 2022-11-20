@@ -13,4 +13,4 @@ heading_anchors: false
 
 latex: katex
 compress_html:
-    blank_lines: true
+    blanklines: true
