@@ -1,8 +1,10 @@
 ---
 layout: default
-title: Description
+title: Mathematik
 nav_order: 4
 ---
+
+Hier wird Mathe getestet:
 
 $$
 \begin{aligned}
@@ -20,3 +22,7 @@ y_n
 \end{array} \right)
 \end{aligned}
 $$
+
+    $$ 5x+f(x)=4y $$
+
+$$ 5x+f(x)=4y $$

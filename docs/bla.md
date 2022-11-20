@@ -24,11 +24,13 @@ nav_order: 3
 eingebauter code ist hier: `home()`, schön was? Auch z.b. `<div> element</div>`
 
 hier teste ich kramdown-formatin
-{:.underline}
+{:.border .border-success}
 geht das hier in 
 {Ukraine-Farben?}
-{.newClass} 
+{.rounded} 
 Ukraine-Farben?
-{: .newClass}
+{: .rounded .bg-green-000}
 # Ukraine-Farben?
-{: .newClass}
+{: .mega-big}
+
+jo {::comment} ist kommentiert.. oder nicht?{:/geheim}
