@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Neue Artikeleinträge schreiben
+title: Neue Artikeleinträge
 has_children: true
 ---
 # Inhalt
@@ -8,10 +8,7 @@ has_children: true
 1. TOC
 {:toc}
 
-# Neue Artikeleinträge schreiben
+# Neue Artikeleinträge
 
-Diese Dokumentation ist mit Hilfe der Git-Repo [just-the-docs] entstanden. 
+Diese Dokumentation ist mit Hilfe der Git-Repo [just-the-docs](https://github.com/just-the-docs/just-the-docs) entstanden. 
 Um neue Artikel zu schreiben, muss man ein paar Dinge beachten. 
-
-
-[just-the-docs](https://github.com/just-the-docs/just-the-docs)
