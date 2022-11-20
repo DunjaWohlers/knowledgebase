@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bla
-nav_order: 2
+nav_order: 3
 ---
 # Table of Contents
 1. TOC
@@ -22,3 +22,7 @@ nav_order: 2
 ***
 
 eingebauter code ist hier: `home()`, schön was? Auch z.b. `<div> element</div>`
+
+hier teste ich kramdown-formatin{:.underline}
+geht das hier in {Ukraine-Farben?}{.newClass} Ukraine-Farben?{.newClass}
+Ukraine-Farben?{:.newClass}
