@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Neue Artikeleinträge schreiben
+title: Einleitung
 nav-order: 1
+parent: Neue Artikeleinträge schreiben
 ---
 # Inhalt
 {: .no-toc}
@@ -10,5 +11,4 @@ nav-order: 1
 
 # Erstellen einer neuen Seite
 
-Diese Dokumentation ist mit Hilfe der Git-Repo [just-the-docs] entstanden. 
-Um neue Artikel zu schreiben, muss man ein paar Dinge beachten. 
+Zunächst erstellt man ein neues Dokument...

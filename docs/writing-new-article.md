@@ -10,8 +10,8 @@ has_children: true
 
 # Neue Artikeleinträge schreiben
 
-Diese Dokumentation ist mit Hilfe der Git-Repo [just-the-docs]^1 entstanden. 
+Diese Dokumentation ist mit Hilfe der Git-Repo [just-the-docs] entstanden. 
 Um neue Artikel zu schreiben, muss man ein paar Dinge beachten. 
 
 
-[1](https://github.com/just-the-docs/just-the-docs)
+[just-the-docs](https://github.com/just-the-docs/just-the-docs)
