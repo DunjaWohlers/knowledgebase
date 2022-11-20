@@ -2,7 +2,7 @@
 layout: default
 title: Mathematik
 nav_order: 4
-mathjax: true
+latex: mathjax
 ---
 
 Hier wird Mathe getestet:
