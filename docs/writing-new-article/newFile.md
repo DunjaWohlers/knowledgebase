@@ -33,9 +33,7 @@ text text text
 ```
 {: .d-inline-block}
 
-Titel 
-{: .d-inline-block}
-
+Titel
 überschrift
 {: .d-inline-block}
 
