@@ -24,6 +24,4 @@ y_n
 \end{aligned}
 $$
 
-    $$ 5x+f(x)=4y $$
-
 $$ 5x+f(x)=4y $$

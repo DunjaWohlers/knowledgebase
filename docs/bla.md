@@ -28,5 +28,5 @@ Teste custom classes:
 border und farbe?
 {: .border-radius .newClass}
 
-border größer?{: .border-radius2}
-
+border größer?
+{: .border-radius2}

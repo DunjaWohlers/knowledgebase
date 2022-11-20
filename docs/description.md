@@ -13,9 +13,6 @@ nav_order: 2
 ### Blababa
 {: .no_toc .bg-red }
 
-
-
-
 |Spalte1|Spalte2|Spalte3|
 |---|---|---|
 |value1|value2|value3|
