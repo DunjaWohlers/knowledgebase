@@ -31,6 +31,8 @@ geht das hier in
 Ukraine-Farben?
 {: .rounded .bg-green-000}
 # Ukraine-Farben?
-{: .mega-big .rounded .bg-green-000 .border .border-success}
+{: .mega-big .newClass}
 
-jo {::comment} ist kommentiert.. oder nicht?{:/geheim}
+jo { ::comment} ist kommentiert.. oder nicht?{: /geheim}
+gu
+{: .mega-big .newClass}
