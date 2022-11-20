@@ -23,6 +23,12 @@ nav_order: 3
 
 eingebauter code ist hier: `home()`, schön was? Auch z.b. `<div> element</div>`
 
-hier teste ich kramdown-formatin{:.underline}
-geht das hier in {Ukraine-Farben?}{.newClass} Ukraine-Farben?{.newClass}
-Ukraine-Farben?{:.newClass}
+hier teste ich kramdown-formatin
+{:.underline}
+geht das hier in 
+{Ukraine-Farben?}
+{.newClass} 
+Ukraine-Farben?
+{: .newClass}
+# Ukraine-Farben?
+{: .newClass}
