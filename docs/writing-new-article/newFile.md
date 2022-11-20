@@ -16,7 +16,7 @@ Zunächst erstellt man ein neues Dokument z.B. mit dem Namen "die-sahara.md" im 
     - docs
         - die-sahara.md
 
-Die ersten Zeilen in dem Dokument sollten folgendes beinhalten: 
+Dein erster Artikel könnte z.B. folgendes beinhalten: 
 
 ```markdown
 ---
@@ -31,3 +31,8 @@ nav-order: 1 <!-- Position -->
     text text text
     {: .className}
 ```
+{: .half-width}
+
+Titel 
+überschrift
+{: .half-width}
