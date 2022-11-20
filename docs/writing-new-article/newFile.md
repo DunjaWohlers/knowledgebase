@@ -18,15 +18,11 @@ Zunächst erstellt man ein neues Dokument z.B. mit dem Namen "die-sahara.md" im 
 
 Dein erster Artikel könnte z.B. folgendes beinhalten: 
 
-
-| head1        | head two          |
-|:-------------|:------------------|
-|  
-  ```markdown
-   ---
-  layout: default
-  title: Die Sahara
-  nav-order: 1 <!-- Position -->
+```markdown
+    ---
+    layout: default
+    title: Die Sahara
+    nav-order: 1 <!-- Position -->
   ---
   # Inhalt 
     {: .no-toc}
@@ -34,7 +30,10 @@ Dein erster Artikel könnte z.B. folgendes beinhalten:
   # Bla
     text text text
     {: .className}
-  ```    
- | Titel überschrift |
+```
+{: .d-inline-block}
+
+  Titel überschrift
+{: .d-inline-block}
 
 
