@@ -32,6 +32,6 @@ nav-order: 1 <!-- Position -->
     {: .className}
 ```
 {: .half-width}
-Titel 
+Titel
 überschrift
 {: .half-width}
